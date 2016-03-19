@@ -1,0 +1,28 @@
+name: workplacelearning
+favicon: null
+layout_spectrum: 0.37131071323528886
+typography_spectrum: 0.7624459883663803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8216631591785699
+  lightness: 0.6543418725486845
+  saturation: 0.748937526717782
+  rhythmicContrast: 0.4219033685512841
+purpose: []
