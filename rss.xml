@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[workplacelearning]]></title>
+        <description><![CDATA[workplacelearning]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Mar 2016 20:26:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Why 2016 Is The Year Of The Hybrid Job]]></title>
+            <description><![CDATA[<article><h1>Why 2016 Is The Year Of The Hybrid Job</h1><p>In an age of big data, having tech skills is important, but the pendulum might be starting to swing the other way. More companies are requiring a mix of technology and people skills, and 2016 is being called the year of the hybrid job.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66250d3cdefd3a66c7e5fa4fc86e08a42c445eb0.jpg"></article>]]></description>
+            <link>http://www.fastcompany.com/3057619/the-future-of-work/why-2016-is-the-year-of-the-hybrid-job?utm_content=bufferfe73c&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">36e225d5-07aa-456f-9fe7-7251224ffacd</guid>
+            <pubDate>Sat, 19 Mar 2016 20:26:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
